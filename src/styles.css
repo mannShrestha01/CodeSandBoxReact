@@ -1,0 +1,19 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.Parent {
+  background-color: aquamarine;
+  margin: 10px;
+}
+
+.Child {
+  background-color: red;
+  margin: 5px;
+}
+
+.GrandChild {
+  background-color: antiquewhite;
+  margin: 5px;
+}
